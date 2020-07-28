@@ -2,7 +2,7 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: #151FB2;
 }
 
 
@@ -91,7 +91,7 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #15AEFA;
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
